@@ -1,3 +1,2 @@
-# JulianBaldwin.github.io
+# Julian Daniel Baldwin
 Personal Website
-Uga booga
